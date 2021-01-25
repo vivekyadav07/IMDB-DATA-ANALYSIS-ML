@@ -1,2 +1,2 @@
 # IMDB-DATA-ANALYSIS-ML
-ML project on Data analysis
+ML project on Data Science
